@@ -1,7 +1,7 @@
 bui# Summary
-* [Moco](index.md)
-	* [quick start](quick_start.md)
-	* [使用](usage.md)
+* [Moco](moco/index.md)
+	* [quick start](moco/quick_start.md)
+	* [用法](moco/usage.md)
 
 
 
