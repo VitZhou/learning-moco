@@ -4,7 +4,7 @@ API
 另外,Moco有几种不同的方法与一些工具集成:maven插件,gradle插件和shell支持
 
 
-<!-- etoc -->
+<!-- toc -->
 ####依赖
 maven核心依赖:
 ```xml
