@@ -23,6 +23,7 @@
   "title": "Moco学习笔记",
   "variables": {
   },
+  "gitbook": ">=3.2.0",
   "plugins": [
     "donate",
     "toggle-chapters",
@@ -53,6 +54,5 @@
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     }
-	
   }
 }
