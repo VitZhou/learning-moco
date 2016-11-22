@@ -31,7 +31,7 @@
     "tbfed-pagefooter",
 	"toggle-chapters",
     "edit-link", 
-    "atoc",
+    "toc",
     "back-to-top-button",
     "tags"
   ],
@@ -52,6 +52,10 @@
       "copyright":"Copyright &copy www.gitbook.com/@herryZ 2016",
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+	"toc": {
+        "addClass": true,
+        "className": "toc"
     }
   }
 }
