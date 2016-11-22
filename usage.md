@@ -3,8 +3,8 @@ API
 >Moco有几种使用方式:一种是API,你可以在单元测试中使用它。另外一个是独立运行Moco。一般,你需要将所有的配置放在json文件中
 另外,Moco有几种不同的方法与一些工具集成:maven插件,gradle插件和shell支持
 
-<!-- etoc -->
 
+<!-- etoc -->
 ####依赖
 maven核心依赖:
 ```xml
@@ -169,3 +169,4 @@ Socket是一个通用的集成通道。 只有内容可用在套接字。
 	java -jar moco-runner-<version>-standalone.jar socket -p 12306 -c foo.json
 ```
 更多socket api可以访问[这里](https://github.com/dreamhead/moco/blob/master/moco-doc/socket-apis.md)
+
