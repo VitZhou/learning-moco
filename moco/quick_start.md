@@ -18,4 +18,4 @@
 	```shell
     	java -jar moco-runner-<version>-standalone.jar http -p 12306 -c foo.json
     ```
-1. 现在你可以在你的浏览器中输入 http://localhost:12306访问后你会看到"Hello,Moco"
+1. 现在你可以在你的浏览器中输入http://localhost:12306 访问后你会看到"Hello,Moco"
