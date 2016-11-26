@@ -167,5 +167,11 @@ Socket是一个通用的集成通道。 只有内容可用在套接字。
 ```shell
 	java -jar moco-runner-<version>-standalone.jar socket -p 12306 -c foo.json
 ```
-更多socket api可以访问[这里](https://github.com/dreamhead/moco/blob/master/moco-doc/socket-apis.md)
+更多socket api可以访问[这里](socket_api.md)
+
+## JUnit集成
+Moco提供JUnit集成以简化Moco在JUnit中的使用。
+
+更多细节可以在[这里](junit_integration.md)找到。
+
 
