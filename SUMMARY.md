@@ -7,6 +7,7 @@ bui# Summary
 	* [REST API](moco/rest_api.md)
 	* [JUnit集成](moco/junit_integration.md)
 	* [maven 插件](moco/maven_plugin.md)
+	* [全局设置](moco/global_settings.md)
 
 
 
