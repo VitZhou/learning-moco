@@ -174,4 +174,19 @@ Moco提供JUnit集成以简化Moco在JUnit中的使用。
 
 更多细节可以在[这里](junit_integration.md)找到。
 
+## Maven插件
+详情请查看[这里](maven_plugin.md)
+
+## Shell
+如果您使用的是Mac或Linux，则可以尝试以下方法：
+- 确保您具有JDK 6或更高版本。
+- [下载脚本](https://github.com/dreamhead/moco/blob/master/moco-shell/moco?raw=true)
+- 设置环境变量
+- 将其设置为可执行。 （chmod 755〜/ bin / moco）
+
+然后可以尝试运行:
+```shell
+	moco http -p 12306 -c foo.json
+```
+如果你本地没有最新版本，它会自动下载最新的moco。
 
